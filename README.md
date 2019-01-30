@@ -2,3 +2,4 @@
 Practice problem using git
 
 **William Brandes**
+Greg Schaper
